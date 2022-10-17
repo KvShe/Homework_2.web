@@ -1,9 +1,0 @@
-@font-face {
-	font-family: 'a_Albionic Bold';
-	src: url('../fonts/a_albionic_bold.eot'); /* IE 9 Compatibility Mode */
-	src: url('../fonts/a_albionic_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('../fonts/a_albionic_bold.woff2') format('woff2'), /* Super Modern Browsers */
-		url('../fonts/a_albionic_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('../fonts/a_albionic_bold.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('../fonts/a_albionic_bold.svg#a_albionic_bold') format('svg'); /* Chrome < 4, Legacy iOS */
-}
